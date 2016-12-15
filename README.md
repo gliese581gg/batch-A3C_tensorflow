@@ -10,7 +10,7 @@ Instead of using local networks for every threads, this version uses only one gl
 
 I used network composition (layers, activations) of universe starter agent (https://github.com/openai/universe-starter-agent)
 
-![alt tag](https://github.com/gliese581gg/batch-A3C_tensorflow/blob/master/screenshots/bA3C.PNG)
+![alt tag](https://github.com/gliese581gg/batch-A3C_tensorflow/blob/master/screenshots/bA3C.png)
 
 
 
@@ -40,7 +40,7 @@ I used network composition (layers, activations) of universe starter agent (http
 - Arcade Learning Environment ( https://github.com/mgbellemare/Arcade-Learning-Environment )
 
 ###4. Test results on 'Pong'
-![alt tag](https://github.com/gliese581gg/batch-A3C_tensorflow/blob/master/screenshots/batch-A3CFF.PNG)
+![alt tag](https://github.com/gliese581gg/batch-A3C_tensorflow/blob/master/screenshots/batch-A3CFF.png)
 
 Result for Feed-Forward bA3C (took about 1~2 hours, 8 million frames)
 
