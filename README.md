@@ -1,6 +1,6 @@
 #Batch-A3C (bA3C) tensorflow
 
-(Version 1.0, Last updated :2016.12.12)
+(Version 1.0, Last updated :2016.12.15)
 
 ###1. Introduction
 
